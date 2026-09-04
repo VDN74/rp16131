@@ -208,7 +208,7 @@ const App = () => {
           number={9}
           name={"Ввод-1 фид."}
           inf1={"16131 - 1,2,3"}
-          inf2={"Прожектор"}
+          inf2={""}
           devicesStatus={statusDevicesCells[9]}
           handleToggleDevice={handleToggleDevice}
         ></Cell>
@@ -337,7 +337,7 @@ const App = () => {
           number={14}
           name={"Ввод-2 фид."}
           inf1={"16131 - 4,5,6"}
-          inf2={"Прожектор"}
+          inf2={""}
           devicesStatus={statusDevicesCells[14]}
           handleToggleDevice={handleToggleDevice}
         ></Cell>
