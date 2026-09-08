@@ -78,7 +78,7 @@ const App = () => {
       display: "flex",
       flexDirection: "column",
       gap: "10px",
-      width: "565px",
+      width: "580px",
       height: "310px",
       zIndex: "10",
     },
