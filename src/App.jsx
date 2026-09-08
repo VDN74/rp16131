@@ -80,7 +80,11 @@ const App = () => {
       gap: "10px",
       width: "560px",
       height: "140px",
+      zIndex: "10",
     },
+    overlay: {
+      zIndex: "10",
+    }
   };
 
   return (
